@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  background-color: rgb(233, 233, 233);
+}
+
+header {
+  text-align: center;
+  background: rgb(206, 50, 50);
+  padding: 10px;
+  color: white;
+}
+
+header h1 {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  padding: 20px;
+  background: rgb(206, 50, 50);
+  color: white;
+  margin-top: 20px;
+}
+footer dt {
+  font-weight: bold;
+}
+footer dd {
+  margin-left: 0;
+}
+.titulo {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.texto {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
